@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Nur Aini Lailla Asri**\
-🌱 Saya seorang mahasiswi di **Universitas Singaperbangsa Karawang**\
-🌱 Fakultas **Ilmu Komputer**\
-🌱 Jurusan **Teknik Informatika**
+My name **Nur Aini Lailla Asri**\
+🌱 A fresh graduate in the **Computer Engineering program at Singaperbangsa Karawang University**\
+🔭 Interest in **Web Developer**\
+📫 How to reach me: www.linkedin.com/in/nur-aini-lailla-asri/
 
 <p align="left">
 <a href="https://github.com/NurAiniLaillaAsri">
